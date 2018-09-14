@@ -13,5 +13,8 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
+        public Actionresult contact(){
+        return view();
+        }
     }
 }
